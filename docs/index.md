@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Carlos León
 ---
 # Carlos León
 Data Science student at BYU-I
@@ -114,7 +114,7 @@ __Service Missionary__, South Africa -->
 - Python, C++, R
 - SQL, Tableau
 - Data Science, Machine Learning
-- Git / GitHub
+- Git, GitHub
 - Linux, Windows
 - English, Portuguese, Spanish
 - Written and oral communication
