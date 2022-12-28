@@ -144,3 +144,4 @@ mdresume.Rproj
 .DS_Store
 *.lprof
 .vscode/
+docs/.DS_Store
