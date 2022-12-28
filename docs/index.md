@@ -6,10 +6,10 @@ title: Carlos León
 Data Science student at BYU-I
 
 <div id="webaddress">
-<a href="chinchay@byui.edu">chinchay@byui.edu</a>
-<!-- | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a> -->
-<!-- | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a> -->
-| <a href="https://github.com/chinchay">GitHub</a>
+    <a href="mailto:chinchay@byui.edu">chinchay@byui.edu</a>
+    <!-- | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a> -->
+    | <a href="https://linkedin.com/in/chinchay">LinkedIn</a>
+    | <a href="https://github.com/chinchay">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -17,9 +17,15 @@ Data Science student at BYU-I
 ## Education
 
 `2022`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho__, ID, USA
 
 - Data Science Certificate
+
+`2017`
+__Federal Fluminense University__, SP, Brazil
+
+- PhD and MSc in Physics
+
 
 <!-- - Full academic scholarship with 4.0 GPA
 
@@ -42,28 +48,31 @@ __Pacific Northwest National Lab__, Richland, WA
 
 
 `Dec. 2022 - Present`
-__LabRisco, São Paulo University__, Brazil
+__LabRisco, São Paulo University__, SP, Brazil
 
-- Worked on V-model and use-case design for new software implementations
-- Used test-driven development for Petrobras oil research software
+- Built use cases for offshore management risk software
 
 
 `Feb. 2021 - Feb. 2022`
 __MS2Discovery, Wilfrid Laurier University__, ON, Canada
 
-- 10X speed improvement by using Machine Learning for nano-materials
-- Optimized Machine Learning pipelines through Python / Shell codes
 - 2 publications on Machine Learning for nano-materials research work
+- 10X speed improvement at estimating nanomaterials energies using Machine Learning
+- Optimized Machine Learning pipelines through Python and Shell codes
 
 
 `Dec. 2019 - Mar. 2021`
-__Basque Center of Applied Mathematics__, Spain
+__Basque Center of Applied Mathematics__, BI, Spain
 
-- 2X faster simulations on Lithium-based garnets using A.I. algorithms
-- Implemented/customized simulated annealing, harmonic search algorithms
-- Conference presentations
+- Implemented and customized simulated annealing and harmonic search algorithms
+- Built regression and classification prototypes for Li-garnets
 
+`Jan. 2018 - Aug. 2019`
+__Brigham Young University__, UT, USA
 
+- Found 5 new alloy phases insights through ETL pipelines and Machine Learning models
+- Developed C++ and Python visualization/analysis tools for other users
+- Coached undergrad students
 
 
 <!-- ### Data Science Lead
